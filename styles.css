@@ -36,8 +36,8 @@ a:hover {
   justify-content: space-around;
   font-weight: 700;
   list-style-type: none;
-  margin: 0 auto;
-  padding: 15;
+  margin: 1 auto;
+  padding: 15px;
 }
 
 .nav .name {
